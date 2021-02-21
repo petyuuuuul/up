@@ -1,0 +1,16 @@
+[master e40a17c] add status
+ 1 file changed, 25 insertions(+)
+ create mode 100644 task1/status.txt
+
+C:\Users\Asus\UP\task1>git log
+commit e40a17c51f300677a995b45d060b52a57085af6e (HEAD -> master)
+Author: unknown <apetyul@inbox.ru>
+Date:   Sun Feb 21 21:46:08 2021 +0300
+
+    add status
+
+commit 87e9bc78ea6104e9cfb91c6bfdff4c7e9fce5d2c
+Author: unknown <apetyul@inbox.ru>
+Date:   Sun Feb 21 21:44:27 2021 +0300
+
+    add .gitignore
